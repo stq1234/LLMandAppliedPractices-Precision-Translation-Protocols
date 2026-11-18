@@ -1,0 +1,62 @@
+[
+  {
+    "id": "modal_obligation",
+    "trigger_phrases": ["must", "required", "shall"],
+    "guidance": "In a normative requirement, MUST, REQUIRED, and SHALL express obligation; translate as “必须”. Preserve the actor and scope."
+  },
+  {
+    "id": "modal_recommendation",
+    "trigger_phrases": ["should", "recommended", "not recommended"],
+    "guidance": "SHOULD and RECOMMENDED express strong recommendations that can have justified exceptions; use “应当/建议”, not an unconditional MUST. SHOULD NOT or NOT RECOMMENDED means “通常不应/不建议”, not an absolute ban."
+  },
+  {
+    "id": "modal_permission",
+    "trigger_phrases": ["may", "optional", "permitted"],
+    "guidance": "MAY or OPTIONAL expresses permission/optionality (“可以/可选”). In “may be” expressing uncertainty, translate possibility (“可能”), not permission."
+  },
+  {
+    "id": "prohibition",
+    "trigger_phrases": ["must not", "shall not", "prohibited", "forbidden"],
+    "guidance": "MUST NOT, SHALL NOT, and prohibited express a prohibition (“不得/禁止”). Keep the prohibition attached to the correct actor and operation."
+  },
+  {
+    "id": "condition_exception",
+    "trigger_phrases": ["unless", "except", "provided that", "subject to"],
+    "guidance": "UNLESS introduces an exception/condition, usually “除非”; EXCEPT WHEN is “除……情况外”. PROVIDED THAT introduces a condition (“前提是/仅当”). Preserve whether the base rule applies inside or outside the exception."
+  },
+  {
+    "id": "logical_scope",
+    "trigger_phrases": ["only if", "if and only if", "at least one", "both"],
+    "guidance": "ONLY IF states a necessary condition, not a sufficient one (“仅当/只有……才”). IF AND ONLY IF is biconditional (“当且仅当”). Preserve both/all vs at-least-one scope."
+  },
+  {
+    "id": "numeric_bound",
+    "trigger_phrases": ["at least", "at most", "no more than", "no fewer than", "more than", "less than"],
+    "guidance": "Preserve inclusivity and units: at least/no fewer than ≥ (“至少”), at most/no more than ≤ (“至多/不超过”), more than > (“超过”), less than < (“少于”). Keep numeric values and units unchanged."
+  },
+  {
+    "id": "temporal_scope",
+    "trigger_phrases": ["before", "after", "until", "within", "no later than", "no earlier than"],
+    "guidance": "Preserve event order and endpoint inclusivity. BEFORE/AFTER are relative to the named event; UNTIL is “直至/直到”; within X is “在 X 之内”; no later/earlier than is inclusive unless the text states otherwise."
+  },
+  {
+    "id": "actor_scope",
+    "trigger_phrases": ["client", "server", "proxy", "intermediary", "implementation"],
+    "guidance": "Keep each requirement attached to the named protocol role. A client, server, proxy, cache, and implementation are distinct actors; do not broaden a role-specific rule."
+  },
+  {
+    "id": "security_privacy",
+    "trigger_phrases": ["secret", "private", "application", "rejected", "resend"],
+    "guidance": "Preserve security/privacy boundaries and authorization conditions. Do not turn an optional application choice into automatic behavior or remove a prohibition on retaining or resending data."
+  },
+  {
+    "id": "syntax_processing",
+    "trigger_phrases": ["grammar", "syntax", "parser", "parse", "generate", "rule"],
+    "guidance": "Distinguish generation from parsing and a grammar rule from an implementation choice. Preserve whether a parser must accept input or a generator must emit it."
+  },
+  {
+    "id": "reference_precedence",
+    "trigger_phrases": ["conflict", "overrides", "supersedes", "section", "registry"],
+    "guidance": "Preserve the direction and scope of cross-references, precedence, and registry actions; update/replace does not mean merely cite or copy."
+  }
+]

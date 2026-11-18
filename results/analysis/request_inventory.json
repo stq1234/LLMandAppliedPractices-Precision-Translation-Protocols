@@ -1,0 +1,48 @@
+{
+  "dev": {
+    "condition_rows": 60,
+    "successful_condition_rows": 60,
+    "logical_method_calls": 130,
+    "physical_request_attempts": 99,
+    "successful_network_responses": 99,
+    "cache_hits": 1,
+    "actual_prompt_tokens": 23192,
+    "actual_completion_tokens": 2492,
+    "actual_models": {
+      "deepseek-v4-1-flash-261017": 99
+    },
+    "finish_reasons": {
+      "stop": 99
+    }
+  },
+  "test": {
+    "condition_rows": 180,
+    "successful_condition_rows": 180,
+    "logical_method_calls": 390,
+    "physical_request_attempts": 297,
+    "successful_network_responses": 297,
+    "cache_hits": 3,
+    "actual_prompt_tokens": 69834,
+    "actual_completion_tokens": 6841,
+    "actual_models": {
+      "deepseek-v4-1-flash-261017": 297
+    },
+    "finish_reasons": {
+      "stop": 297
+    }
+  },
+  "all": {
+    "condition_rows": 240,
+    "successful_condition_rows": 240,
+    "logical_method_calls": 520,
+    "physical_request_attempts": 396,
+    "actual_prompt_tokens": 93026,
+    "actual_completion_tokens": 9333,
+    "actual_models": {
+      "deepseek-v4-1-flash-261017": 396
+    },
+    "finish_reasons": {
+      "stop": 396
+    }
+  }
+}

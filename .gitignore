@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+results/*cache*.sqlite3*
+results/*checkpoint*.sqlite3*
+results/analysis/*.tmp

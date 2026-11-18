@@ -1,0 +1,18 @@
+{
+  "test": {
+    "unique_blind_ids": 160,
+    "condition_occurrences": 270,
+    "ids_reused_across_conditions": 49,
+    "mean_conditions_per_id": 1.6875,
+    "max_conditions_per_id": 8,
+    "ids_shared_across_methods": 39
+  },
+  "dev": {
+    "unique_blind_ids": 55,
+    "condition_occurrences": 90,
+    "ids_reused_across_conditions": 16,
+    "mean_conditions_per_id": 1.6364,
+    "max_conditions_per_id": 6,
+    "ids_shared_across_methods": 13
+  }
+}

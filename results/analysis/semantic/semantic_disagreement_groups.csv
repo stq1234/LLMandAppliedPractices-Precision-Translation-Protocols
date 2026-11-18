@@ -1,0 +1,5 @@
+﻿split,family,item_id,unique_translations,acceptable_translations,unacceptable_translations
+dev,workflow,DEV-WF-03,4,3,1
+test,logic_conditions,TEST-LG-05,8,5,3
+test,numeric_bounds,TEST-NB-01,4,3,1
+test,temporal_order,TEST-TM-04,7,6,1

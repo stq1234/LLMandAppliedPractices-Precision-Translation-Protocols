@@ -1,0 +1,1226 @@
+[
+  {
+    "item_id": "iso_02",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "Appropriate and timely involvement of stakeholders enables their knowledge, views and perceptions to be considered.",
+    "anchor_zh": "利益相关方的适当、及时参与使其知识、观点和感知得到考虑。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "利益相关方的适当和及时参与使其知识、观点和认知得以被考虑。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 86,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.254,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 86,
+    "completion_tokens": 17,
+    "actual_prompt_tokens": 86,
+    "actual_completion_tokens": 17,
+    "elapsed_seconds": 1.254,
+    "logical_elapsed_seconds": 1.254,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_02",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "Appropriate and timely involvement of stakeholders enables their knowledge, views and perceptions to be considered.",
+    "anchor_zh": "利益相关方的适当、及时参与使其知识、观点和感知得到考虑。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "相关方适当且及时的参与，使其知识、观点和认知得以被考虑。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "利益相关方的适当且及时的参与，使其知识、观点和认知得以被考虑。",
+        "适当地、及时地让相关方参与，能够使其知识、观点和认知得到考虑。",
+        "相关方的适当且及时参与，使其知识、观点和认知得以被考虑。"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 100,
+        "completion_tokens": 18,
+        "elapsed_seconds": 1.1136,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 100,
+        "completion_tokens": 20,
+        "elapsed_seconds": 1.2194,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 100,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.1249,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 185,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0063,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 485,
+    "completion_tokens": 72,
+    "actual_prompt_tokens": 485,
+    "actual_completion_tokens": 72,
+    "elapsed_seconds": 4.4642,
+    "logical_elapsed_seconds": 4.4642,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_02",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "Appropriate and timely involvement of stakeholders enables their knowledge, views and perceptions to be considered.",
+    "anchor_zh": "利益相关方的适当、及时参与使其知识、观点和感知得到考虑。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "适当地、及时地让相关方参与，能够使其知识、观点和认知得到考虑。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "利益相关方的适当且及时的参与，使其知识、观点和认知得以被考虑。",
+        "适当地、及时地让相关方参与，能够使其知识、观点和认知得到考虑。",
+        "相关方的适当且及时参与，使其知识、观点和认知得以被考虑。"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 100,
+        "completion_tokens": 18,
+        "elapsed_seconds": 1.1136,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 100,
+        "completion_tokens": 20,
+        "elapsed_seconds": 1.2194,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 100,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.1249,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 180,
+        "completion_tokens": 1,
+        "elapsed_seconds": 0.9504,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 480,
+    "completion_tokens": 56,
+    "actual_prompt_tokens": 180,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 0.9504,
+    "logical_elapsed_seconds": 4.4083,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  },
+  {
+    "item_id": "iso_03",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "implement and maintain a process to identify, have access to and assess the applicable legal, regulatory and other requirements related to its security;",
+    "anchor_zh": "实施并持续维护一套过程，用以识别、获取并评价与其安全相关的适用法律、监管及其他要求。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "实施并维护一个过程，以识别、获取和评估与其安全相关的适用法律、法规和其他要求；",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 93,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.2895,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 93,
+    "completion_tokens": 22,
+    "actual_prompt_tokens": 93,
+    "actual_completion_tokens": 22,
+    "elapsed_seconds": 1.2895,
+    "logical_elapsed_seconds": 1.2895,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_03",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "implement and maintain a process to identify, have access to and assess the applicable legal, regulatory and other requirements related to its security;",
+    "anchor_zh": "实施并持续维护一套过程，用以识别、获取并评价与其安全相关的适用法律、监管及其他要求。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.1431,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 0.9378,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.0493,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 203,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.1974,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 524,
+    "completion_tokens": 88,
+    "actual_prompt_tokens": 524,
+    "actual_completion_tokens": 88,
+    "elapsed_seconds": 4.3276,
+    "logical_elapsed_seconds": 4.3276,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_03",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "implement and maintain a process to identify, have access to and assess the applicable legal, regulatory and other requirements related to its security;",
+    "anchor_zh": "实施并持续维护一套过程，用以识别、获取并评价与其安全相关的适用法律、监管及其他要求。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；",
+        "实施并维护一个过程，以识别、获取并评估与其安全相关的适用法律、法规及其他要求；"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.1431,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 0.9378,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 107,
+        "completion_tokens": 22,
+        "elapsed_seconds": 1.0493,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 198,
+        "completion_tokens": 1,
+        "elapsed_seconds": 0.8586,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 519,
+    "completion_tokens": 67,
+    "actual_prompt_tokens": 198,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 0.8586,
+    "logical_elapsed_seconds": 3.9888,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  },
+  {
+    "item_id": "iso_04",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "This International Standard does not state specific environmental performance criteria.",
+    "anchor_zh": "本国际标准未规定具体的环境绩效准则。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "本国际标准不规定具体的环境绩效准则。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 78,
+        "completion_tokens": 10,
+        "elapsed_seconds": 1.1033,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 78,
+    "completion_tokens": 10,
+    "actual_prompt_tokens": 78,
+    "actual_completion_tokens": 10,
+    "elapsed_seconds": 1.1033,
+    "logical_elapsed_seconds": 1.1033,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_04",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "This International Standard does not state specific environmental performance criteria.",
+    "anchor_zh": "本国际标准未规定具体的环境绩效准则。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "本国际标准不规定具体的环境绩效准则。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "本国际标准不规定具体的环境绩效准则。\n\n候选1：本国际标准并未规定具体的环境绩效标准。",
+        "本国际标准不规定具体的环境绩效准则。",
+        "本国际标准不规定具体的环境绩效准则。"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 92,
+        "completion_tokens": 23,
+        "elapsed_seconds": 1.0826,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 92,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.8898,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 92,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.97,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 165,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9399,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 441,
+    "completion_tokens": 53,
+    "actual_prompt_tokens": 441,
+    "actual_completion_tokens": 53,
+    "elapsed_seconds": 3.8823,
+    "logical_elapsed_seconds": 3.8823,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_04",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "This International Standard does not state specific environmental performance criteria.",
+    "anchor_zh": "本国际标准未规定具体的环境绩效准则。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "本国际标准不规定具体的环境绩效准则。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "本国际标准不规定具体的环境绩效准则。\n\n候选1：本国际标准并未规定具体的环境绩效标准。",
+        "本国际标准不规定具体的环境绩效准则。",
+        "本国际标准不规定具体的环境绩效准则。"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 92,
+        "completion_tokens": 23,
+        "elapsed_seconds": 1.0826,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 92,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.8898,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 92,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.97,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 160,
+        "completion_tokens": 1,
+        "elapsed_seconds": 1.0016,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 436,
+    "completion_tokens": 44,
+    "actual_prompt_tokens": 160,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 1.0016,
+    "logical_elapsed_seconds": 3.944,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  },
+  {
+    "item_id": "iso_07",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "action or activity that is essential to prevent a significant food safety hazard (3.22) or reduce it to an acceptable level (3.1)",
+    "anchor_zh": "对预防重大食品安全危害（3.22）或将其降低到可接受水平（3.1）至关重要的行动或活动。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的行动或活动",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 97,
+        "completion_tokens": 26,
+        "elapsed_seconds": 0.9582,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 97,
+    "completion_tokens": 26,
+    "actual_prompt_tokens": 97,
+    "actual_completion_tokens": 26,
+    "elapsed_seconds": 0.9582,
+    "logical_elapsed_seconds": 0.9582,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_07",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "action or activity that is essential to prevent a significant food safety hazard (3.22) or reduce it to an acceptable level (3.1)",
+    "anchor_zh": "对预防重大食品安全危害（3.22）或将其降低到可接受水平（3.1）至关重要的行动或活动。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的行动或活动",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的措施或活动",
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的行动或活动\n\n对预防严重食品安全危害（3.22）或将其降至可接受水平（3.1）必不可少的措施或活动",
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的措施或活动"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 111,
+        "completion_tokens": 26,
+        "elapsed_seconds": 1.0617,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 111,
+        "completion_tokens": 52,
+        "elapsed_seconds": 1.112,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 111,
+        "completion_tokens": 26,
+        "elapsed_seconds": 1.0248,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 248,
+        "completion_tokens": 26,
+        "elapsed_seconds": 1.1963,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 581,
+    "completion_tokens": 130,
+    "actual_prompt_tokens": 581,
+    "actual_completion_tokens": 130,
+    "elapsed_seconds": 4.3948,
+    "logical_elapsed_seconds": 4.3948,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_07",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "action or activity that is essential to prevent a significant food safety hazard (3.22) or reduce it to an acceptable level (3.1)",
+    "anchor_zh": "对预防重大食品安全危害（3.22）或将其降低到可接受水平（3.1）至关重要的行动或活动。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的行动或活动\n\n对预防严重食品安全危害（3.22）或将其降至可接受水平（3.1）必不可少的措施或活动",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的措施或活动",
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的行动或活动\n\n对预防严重食品安全危害（3.22）或将其降至可接受水平（3.1）必不可少的措施或活动",
+        "对防止重大食品安全危害（3.22）或将其降低至可接受水平（3.1）至关重要的措施或活动"
+      ],
+      "selected_candidate": 2
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 111,
+        "completion_tokens": 26,
+        "elapsed_seconds": 1.0617,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 111,
+        "completion_tokens": 52,
+        "elapsed_seconds": 1.112,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 111,
+        "completion_tokens": 26,
+        "elapsed_seconds": 1.0248,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 243,
+        "completion_tokens": 1,
+        "elapsed_seconds": 0.9995,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 576,
+    "completion_tokens": 105,
+    "actual_prompt_tokens": 243,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 0.9995,
+    "logical_elapsed_seconds": 4.198,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  },
+  {
+    "item_id": "iso_09",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The organization shall determine the boundaries and applicability of the anti-bribery management system to establish its scope.",
+    "anchor_zh": "组织应确定反贿赂管理体系的边界与适用性，以确立其范围。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "组织应确定反贿赂管理体系的边界和适用性，以建立其范围。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 87,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0167,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 87,
+    "completion_tokens": 17,
+    "actual_prompt_tokens": 87,
+    "actual_completion_tokens": 17,
+    "elapsed_seconds": 1.0167,
+    "logical_elapsed_seconds": 1.0167,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_09",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The organization shall determine the boundaries and applicability of the anti-bribery management system to establish its scope.",
+    "anchor_zh": "组织应确定反贿赂管理体系的边界与适用性，以确立其范围。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0156,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 0.9968,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0303,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 182,
+        "completion_tokens": 17,
+        "elapsed_seconds": 0.9268,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 485,
+    "completion_tokens": 68,
+    "actual_prompt_tokens": 485,
+    "actual_completion_tokens": 68,
+    "elapsed_seconds": 3.9695,
+    "logical_elapsed_seconds": 3.9695,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_09",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The organization shall determine the boundaries and applicability of the anti-bribery management system to establish its scope.",
+    "anchor_zh": "组织应确定反贿赂管理体系的边界与适用性，以确立其范围。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。",
+        "组织应确定反贿赂管理体系的边界和适用性，以确立其范围。"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0156,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 0.9968,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 101,
+        "completion_tokens": 17,
+        "elapsed_seconds": 1.0303,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 177,
+        "completion_tokens": 1,
+        "elapsed_seconds": 0.9607,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 480,
+    "completion_tokens": 52,
+    "actual_prompt_tokens": 177,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 0.9607,
+    "logical_elapsed_seconds": 4.0034,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  },
+  {
+    "item_id": "iso_10",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The extent of application of these requirements depends on the organization’s operating environment and complexity.",
+    "anchor_zh": "这些要求的应用程度取决于组织的运行环境及复杂程度。",
+    "method": "direct",
+    "context": "none",
+    "status": "success",
+    "translation_zh": "这些要求的应用程度取决于组织的运行环境和复杂性。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": []
+    },
+    "stages": {},
+    "calls": [
+      {
+        "step": "direct",
+        "prompt_tokens": 85,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9611,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 1,
+    "physical_calls": 1,
+    "prompt_tokens": 85,
+    "completion_tokens": 10,
+    "actual_prompt_tokens": 85,
+    "actual_completion_tokens": 10,
+    "elapsed_seconds": 0.9611,
+    "logical_elapsed_seconds": 0.9611,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_10",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The extent of application of these requirements depends on the organization’s operating environment and complexity.",
+    "anchor_zh": "这些要求的应用程度取决于组织的运行环境及复杂程度。",
+    "method": "pool_aggregate",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "这些要求的应用程度取决于组织的运行环境和复杂性。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "这些要求的应用程度取决于组织的运行环境和复杂性。",
+        "这些要求的应用程度取决于组织的运行环境和复杂性。",
+        "这些要求的应用程度取决于组织的运行环境和复杂性。"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9162,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9404,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 1.0283,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      },
+      {
+        "step": "aggregate",
+        "prompt_tokens": 159,
+        "completion_tokens": 10,
+        "elapsed_seconds": 1.0641,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 4,
+    "prompt_tokens": 456,
+    "completion_tokens": 40,
+    "actual_prompt_tokens": 456,
+    "actual_completion_tokens": 40,
+    "elapsed_seconds": 3.949,
+    "logical_elapsed_seconds": 3.949,
+    "cache_hits": 0,
+    "shared_pool_calls": 0
+  },
+  {
+    "item_id": "iso_10",
+    "family": "ISO excerpt",
+    "split": "external",
+    "source_en": "The extent of application of these requirements depends on the organization’s operating environment and complexity.",
+    "anchor_zh": "这些要求的应用程度取决于组织的运行环境及复杂程度。",
+    "method": "pool_select",
+    "context": "fixed_correct",
+    "status": "success",
+    "translation_zh": "这些要求的应用程度取决于组织的运行环境和复杂性。",
+    "card_trace": {
+      "selected_card_ids": [],
+      "target_card_ids": [],
+      "retrieval_score": null
+    },
+    "stages": {
+      "pool_size": 3,
+      "candidate_translations": [
+        "这些要求的应用程度取决于组织的运行环境和复杂性。",
+        "这些要求的应用程度取决于组织的运行环境和复杂性。",
+        "这些要求的应用程度取决于组织的运行环境和复杂性。"
+      ],
+      "selected_candidate": 1
+    },
+    "calls": [
+      {
+        "step": "pool_candidate_1",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9162,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_2",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 0.9404,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "pool_candidate_3",
+        "prompt_tokens": 99,
+        "completion_tokens": 10,
+        "elapsed_seconds": 1.0283,
+        "cache_hit": false,
+        "physical_calls": 0,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop",
+        "shared_pool": true
+      },
+      {
+        "step": "select",
+        "prompt_tokens": 154,
+        "completion_tokens": 1,
+        "elapsed_seconds": 0.8196,
+        "cache_hit": false,
+        "physical_calls": 1,
+        "attempts": 1,
+        "actual_model": "deepseek-v4-1-flash-261017",
+        "finish_reason": "stop"
+      }
+    ],
+    "logical_calls": 4,
+    "physical_calls": 1,
+    "prompt_tokens": 451,
+    "completion_tokens": 31,
+    "actual_prompt_tokens": 154,
+    "actual_completion_tokens": 1,
+    "elapsed_seconds": 0.8196,
+    "logical_elapsed_seconds": 3.7045,
+    "cache_hits": 0,
+    "shared_pool_calls": 3
+  }
+]

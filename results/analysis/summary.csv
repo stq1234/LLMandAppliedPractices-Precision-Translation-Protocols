@@ -1,0 +1,13 @@
+﻿split,method,context,expected_items,attempted_items,successful_items,failed_items,coverage,mean_logical_calls,mean_physical_calls,mean_prompt_tokens,mean_completion_tokens,mean_actual_prompt_tokens,mean_actual_completion_tokens,mean_elapsed_seconds,mean_cache_hits,mean_shared_pool_calls,retrieval_exact_card_rate,retrieval_card_recall,semantic_review_status
+dev,direct,fixed_correct,10,10,10,0,1.0,1,1,215,30.9,215,30.9,1.1631,0,0,,,not_scored
+dev,fragments,fixed_correct,10,10,10,0,1.0,2,2,422.4,31.6,422.4,31.6,2.1661,0,0,,,not_scored
+dev,pool_aggregate,fixed_correct,10,10,10,0,1.0,4,4,1041.2,127,1041.2,127,4.7207,0,0,,,not_scored
+dev,pool_select,fixed_correct,10,10,10,0,1.0,4,1,1036.2,96,349.2,1,1.015,0,3,,,not_scored
+dev,direct,none,10,10,10,0,1.0,1,1,100.6,30.8,100.6,30.8,1.1509,0,0,,,not_scored
+dev,direct,retrieved,10,10,10,0,1.0,1,0.9,208.8,31.5,190.8,27.9,1.1626,0.1,0,0.4,0.8,not_scored
+test,direct,fixed_correct,30,30,30,0,1.0,1,1,217.6,28.5,217.6,28.5,1.1148,0,0,,,not_scored
+test,fragments,fixed_correct,30,30,30,0,1.0,2,2,430.7333,28.5667,430.7333,28.5667,2.0051,0,0,,,not_scored
+test,pool_aggregate,fixed_correct,30,30,30,0,1.0,4,4,1044.2,116.5667,1044.2,116.5667,4.4147,0,0,,,not_scored
+test,pool_select,fixed_correct,30,30,30,0,1.0,4,1,1039.2,88.8,344.4,1,0.9366,0,3,,,not_scored
+test,direct,none,30,30,30,0,1.0,1,1,97.6667,27.9667,97.6667,27.9667,1.0608,0,0,,,not_scored
+test,direct,retrieved,30,30,30,0,1.0,1,0.9,211.9333,28.0333,193.2,25.4333,1.1116,0.1,0,0.3333,0.7361,not_scored

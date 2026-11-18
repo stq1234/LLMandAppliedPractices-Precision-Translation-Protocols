@@ -1,0 +1,3 @@
+﻿split,expected_items,complete_pool_items,raw_candidate_count,raw_candidate_acceptable_rate,pool_coverage_items,pool_coverage_rate,aggregate_acceptable_rate,select_acceptable_rate,selected_candidate_acceptable_rate,selection_rating_consistency_count,selector_acceptable_when_pool_covered,aggregate_recovers_when_pool_has_no_acceptable_candidate,aggregate_rejects_despite_acceptable_pool,aggregate_rewritten_items,aggregate_rewritten_acceptable,aggregate_rewritten_acceptable_rate,selection_count
+test,30,30,90,0.9444,29,0.9667,0.9667,0.9667,0.9667,30,29,0,0,6,6,1.0,30
+dev,10,10,30,0.9,9,0.9,0.9,0.9,0.9,10,9,0,0,2,1,0.5,10

@@ -1,0 +1,13 @@
+﻿split,method,context,expected_items,rated_items,semantic_acceptable,semantic_acceptable_rate,term_relaxed_acceptable,term_relaxed_acceptable_rate,deliverable_acceptable,deliverable_acceptable_rate,mean_logical_completion_tokens,mean_actual_completion_tokens,mean_physical_calls,logical_completion_tokens_per_semantic_acceptable,actual_completion_tokens_per_semantic_acceptable,logical_completion_tokens_per_deliverable
+test,direct,fixed_correct,30,30,28,0.9333,29,0.9667,28,0.9333,28.5,28.5,1,30.5368,30.5368,30.5368
+test,fragments,fixed_correct,30,30,27,0.9,28,0.9333,0,0.0,28.5667,28.5667,2,31.7408,31.7408,
+test,pool_aggregate,fixed_correct,30,30,29,0.9667,30,1.0,29,0.9667,116.5667,116.5667,4,120.5821,120.5821,120.5821
+test,pool_select,fixed_correct,30,30,29,0.9667,30,1.0,29,0.9667,88.8,1,1,91.8589,1.0344,91.8589
+test,direct,none,30,30,29,0.9667,30,1.0,29,0.9667,27.9667,27.9667,1,28.9301,28.9301,28.9301
+test,direct,retrieved,30,30,29,0.9667,30,1.0,29,0.9667,28.0333,25.4333,0.9,28.999,26.3094,28.999
+dev,direct,fixed_correct,10,10,9,0.9,9,0.9,9,0.9,30.9,30.9,1,34.3333,34.3333,34.3333
+dev,fragments,fixed_correct,10,10,8,0.8,9,0.9,0,0.0,31.6,31.6,2,39.5,39.5,
+dev,pool_aggregate,fixed_correct,10,10,9,0.9,9,0.9,9,0.9,127,127,4,141.1111,141.1111,141.1111
+dev,pool_select,fixed_correct,10,10,9,0.9,9,0.9,9,0.9,96,1,1,106.6667,1.1111,106.6667
+dev,direct,none,10,10,9,0.9,9,0.9,9,0.9,30.8,30.8,1,34.2222,34.2222,34.2222
+dev,direct,retrieved,10,10,9,0.9,9,0.9,9,0.9,31.5,27.9,0.9,35.0,31.0,35.0

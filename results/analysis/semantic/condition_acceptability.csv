@@ -1,0 +1,13 @@
+﻿split,method,context,expected_items,rated_items,semantic_acceptable,semantic_acceptable_rate,term_relaxed_acceptable,term_relaxed_acceptable_rate,deliverable_acceptable,deliverable_acceptable_rate
+test,direct,fixed_correct,30,30,28,0.9333,29,0.9667,28,0.9333
+test,fragments,fixed_correct,30,30,27,0.9,28,0.9333,0,0.0
+test,pool_aggregate,fixed_correct,30,30,29,0.9667,30,1.0,29,0.9667
+test,pool_select,fixed_correct,30,30,29,0.9667,30,1.0,29,0.9667
+test,direct,none,30,30,29,0.9667,30,1.0,29,0.9667
+test,direct,retrieved,30,30,29,0.9667,30,1.0,29,0.9667
+dev,direct,fixed_correct,10,10,9,0.9,9,0.9,9,0.9
+dev,fragments,fixed_correct,10,10,8,0.8,9,0.9,0,0.0
+dev,pool_aggregate,fixed_correct,10,10,9,0.9,9,0.9,9,0.9
+dev,pool_select,fixed_correct,10,10,9,0.9,9,0.9,9,0.9
+dev,direct,none,10,10,9,0.9,9,0.9,9,0.9
+dev,direct,retrieved,10,10,9,0.9,9,0.9,9,0.9

@@ -1,0 +1,215 @@
+{"blind_id": "B-26JEWF4QAL4PULHO", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-01", "method": "direct"}]}
+{"blind_id": "B-2VWOTTWYKDZOP6RZ", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-02", "method": "fragments"}]}
+{"blind_id": "B-2WAS7OZOQG5W5HPN", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-02", "method": "fragments"}]}
+{"blind_id": "B-3QXN3GA7HWR3VZ22", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-02", "method": "direct"}]}
+{"blind_id": "B-44NLOED5BP326GWY", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-03", "method": "fragments"}]}
+{"blind_id": "B-4GSROMPXDGQRAUWL", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-02", "method": "direct"}, {"context": "retrieved", "item_id": "DEV-WF-02", "method": "direct"}]}
+{"blind_id": "B-4QCSNTMBQG3U3KHQ", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-01", "method": "fragments"}]}
+{"blind_id": "B-5X27YPS4I434DN75", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-05", "method": "direct"}]}
+{"blind_id": "B-64BRJT7CGVN26PTU", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-05", "method": "pool_aggregate"}]}
+{"blind_id": "B-6IMAZSAKQT2J3NAJ", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-04", "method": "fragments"}]}
+{"blind_id": "B-A4KWKSPS4EFMYHUV", "conditions": [{"context": "retrieved", "item_id": "DEV-WF-05", "method": "direct"}]}
+{"blind_id": "B-ABHENQGYIG7VY3N3", "conditions": [{"context": "none", "item_id": "DEV-WF-02", "method": "direct"}]}
+{"blind_id": "B-ACE4HDQFZHXACXUZ", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-05", "method": "fragments"}]}
+{"blind_id": "B-AZPR37HZTSHTEEO4", "conditions": [{"context": "none", "item_id": "DEV-RS-05", "method": "direct"}]}
+{"blind_id": "B-BCZ3XP52JKTFPGRO", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-05", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-WF-05", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-WF-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-WF-05", "method": "pool_select"}]}
+{"blind_id": "B-C4KYQNF4QDP6Z2LJ", "conditions": [{"context": "retrieved", "item_id": "DEV-RS-02", "method": "direct"}]}
+{"blind_id": "B-CQLHNCGAOSO6YV4D", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-03", "method": "pool_aggregate"}]}
+{"blind_id": "B-DHTINQZWU64PZNRB", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-04", "method": "pool_aggregate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-RS-04", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-RS-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-DLAZ6554CBB37KWQ", "conditions": [{"context": "none", "item_id": "DEV-RS-02", "method": "direct"}]}
+{"blind_id": "B-DWGFTP5A5TNTFTM6", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-01", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-RS-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-RS-01", "method": "pool_select"}]}
+{"blind_id": "B-FOS5FO545JOZELQO", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-04", "method": "fragments"}]}
+{"blind_id": "B-GAKCWCVQDNTEYTZG", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-WF-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-GBZDATGHHX3F32HS", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-04", "method": "pool_aggregate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-WF-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-IAFJNXGYDCVZ74NZ", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-WF-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-IGDR5LWUSLZQSNS3", "conditions": [{"context": "retrieved", "item_id": "DEV-RS-03", "method": "direct"}]}
+{"blind_id": "B-IHNS5SFVFQDEHKYK", "conditions": [{"context": "none", "item_id": "DEV-WF-03", "method": "direct"}]}
+{"blind_id": "B-INJZDTTDBCVFJ3VD", "conditions": [{"context": "retrieved", "item_id": "DEV-WF-01", "method": "direct"}, {"context": "fixed_correct", "item_id": "DEV-WF-01", "method": "pool_aggregate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-WF-01", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-WF-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-WF-01", "method": "pool_select"}]}
+{"blind_id": "B-J5FPS5YVTD2AB6PU", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-RS-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-RS-05", "method": "pool_select"}]}
+{"blind_id": "B-K77XTRR65CS7Q36O", "conditions": [{"context": "none", "item_id": "DEV-WF-04", "method": "direct"}]}
+{"blind_id": "B-KDMIPZZVUHGHC3DV", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-RS-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-N5RY4V5KSROHUWKS", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-04", "method": "direct"}, {"context": "retrieved", "item_id": "DEV-RS-04", "method": "direct"}]}
+{"blind_id": "B-NGNCUQ3VNBHRUC3U", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-WF-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-OLTI7ULG3MNYOYEJ", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-RS-02", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-RS-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-RS-02", "method": "pool_select"}]}
+{"blind_id": "B-QR2IRU7BYZJZSQX2", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-01", "method": "direct"}, {"context": "none", "item_id": "DEV-RS-01", "method": "direct"}]}
+{"blind_id": "B-RHIIFFALIETB6Z7E", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-03", "method": "direct"}, {"context": "none", "item_id": "DEV-RS-03", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-RS-03", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-RS-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-RS-03", "method": "pool_select"}]}
+{"blind_id": "B-STZDIYTCE4DS5I4R", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-RS-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-T7MI3FXYJBF4SCBR", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-WF-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-TGD5FENJYLNX2CNW", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-RS-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-TIKOSDSNJPWXPIAC", "conditions": [{"context": "retrieved", "item_id": "DEV-WF-03", "method": "direct"}]}
+{"blind_id": "B-UJY62UKD7QQJ537W", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-WF-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-VDE75KHNRZPJZ4UL", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-WF-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-WF-02", "method": "pool_select"}]}
+{"blind_id": "B-VFZWU6CCJPHWFOCI", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-03", "method": "direct"}, {"context": "fixed_correct", "item_id": "DEV-WF-03", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-WF-03", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-WF-03", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "DEV-WF-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-WF-03", "method": "pool_select"}]}
+{"blind_id": "B-VIKBOHPBBOGIGDWE", "conditions": [{"context": "none", "item_id": "DEV-WF-05", "method": "direct"}]}
+{"blind_id": "B-VKQMCSVHAOZBY6PY", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-04", "method": "direct"}, {"context": "retrieved", "item_id": "DEV-WF-04", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-WF-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-WF-04", "method": "pool_select"}]}
+{"blind_id": "B-VRFQE7MC2RDTPLM6", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "DEV-RS-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-VX67M2BN56ONEXCK", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-RS-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "DEV-RS-04", "method": "pool_select"}]}
+{"blind_id": "B-VZDZXBIHBMNZQS5J", "conditions": [{"context": "retrieved", "item_id": "DEV-RS-01", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-RS-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-WBOJH6DCGZLINYUW", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-03", "method": "fragments"}]}
+{"blind_id": "B-WUECATE66G5ZSGHC", "conditions": [{"context": "fixed_correct", "item_id": "DEV-WF-01", "method": "fragments"}]}
+{"blind_id": "B-X2AUAA5623RLJVTX", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "DEV-RS-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-XOFJWZMQCAJSUYFA", "conditions": [{"context": "retrieved", "item_id": "DEV-RS-05", "method": "direct"}]}
+{"blind_id": "B-XTLDZXTTJVSKCREO", "conditions": [{"context": "none", "item_id": "DEV-RS-04", "method": "direct"}]}
+{"blind_id": "B-XU2T2OZDU6BDLIUX", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-05", "method": "direct"}]}
+{"blind_id": "B-YGVKFEDIGVYP5DB2", "conditions": [{"context": "fixed_correct", "item_id": "DEV-RS-05", "method": "fragments"}]}
+{"blind_id": "B-YW6YKTACULD2GMZ5", "conditions": [{"context": "none", "item_id": "DEV-WF-01", "method": "direct"}]}
+{"blind_id": "B-25H3S674J2YJJFPU", "conditions": [{"context": "none", "item_id": "TEST-EX-04", "method": "direct"}]}
+{"blind_id": "B-27MMJEROPSYFU4DW", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-TM-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-2BZVFU6UOIN4OV6J", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SP-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-2G7YBL56CXJJAACZ", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SY-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-2IRG6UY6RGF6OVRP", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-02", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SY-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SY-02", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SY-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SY-02", "method": "pool_select"}]}
+{"blind_id": "B-2KFSLPBXZJ3ZERJU", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-02", "method": "fragments"}]}
+{"blind_id": "B-2R4ZOPATIUL3BQJP", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-05", "method": "fragments"}]}
+{"blind_id": "B-3KP3EDVXPSFZNSEQ", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-LG-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-LG-01", "method": "pool_select"}]}
+{"blind_id": "B-3OELITBUDKZIHBT5", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-NB-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-NB-05", "method": "pool_select"}]}
+{"blind_id": "B-3S7MFIPG757FF5EZ", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-02", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-LG-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-LG-02", "method": "pool_select"}]}
+{"blind_id": "B-3ZM2LHWF3JREUZHH", "conditions": [{"context": "none", "item_id": "TEST-NB-01", "method": "direct"}]}
+{"blind_id": "B-44DRVRRNEFTGATTF", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-05", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SY-05", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SY-05", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SY-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SY-05", "method": "pool_select"}]}
+{"blind_id": "B-47IX62BYR5PAZR7D", "conditions": [{"context": "retrieved", "item_id": "TEST-EX-02", "method": "direct"}]}
+{"blind_id": "B-4B3TIWPB4GFRZ4WM", "conditions": [{"context": "retrieved", "item_id": "TEST-EX-04", "method": "direct"}]}
+{"blind_id": "B-4XXB3JFNB52IMMXV", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SY-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-4YONNF4A4HMGV5M6", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-01", "method": "fragments"}]}
+{"blind_id": "B-4ZGYIBOIVSMHTTCX", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-05", "method": "fragments"}]}
+{"blind_id": "B-53KAAEOSL7IVISQX", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-LG-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-5BDV6WLO5LHOY5Q5", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-EX-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-5DPNNS4IFRMDGYVQ", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-EX-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-5FQITAEM27CG472Q", "conditions": [{"context": "none", "item_id": "TEST-LG-01", "method": "direct"}]}
+{"blind_id": "B-5IQ7QUAMXVKW7OXF", "conditions": [{"context": "none", "item_id": "TEST-EX-05", "method": "direct"}]}
+{"blind_id": "B-5QWZY6H6D65GI54Z", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-TM-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-5VDDDODD6YQXWHPG", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-TM-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-5WZ4FEWFYEU6X3XH", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-05", "method": "pool_aggregate"}]}
+{"blind_id": "B-6NRHBBKAS2737AYK", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-03", "method": "direct"}, {"context": "none", "item_id": "TEST-SY-03", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SY-03", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SY-03", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SY-03", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SY-03", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SY-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SY-03", "method": "pool_select"}]}
+{"blind_id": "B-6P2OBEYQDQFWOGCD", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-03", "method": "pool_aggregate"}]}
+{"blind_id": "B-6RAFMJMGEVLFPNBG", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-TM-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-75OBXI7TEBYF56AD", "conditions": [{"context": "retrieved", "item_id": "TEST-NB-04", "method": "direct"}]}
+{"blind_id": "B-7BJA7IBVWCVC6W76", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-01", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-NB-01", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-NB-01", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-NB-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-NB-01", "method": "pool_select"}]}
+{"blind_id": "B-7KVJNGEYEGZ7P7FT", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-LG-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-LG-05", "method": "pool_select"}]}
+{"blind_id": "B-7NE4EL5MTX2UIKUN", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-01", "method": "direct"}, {"context": "none", "item_id": "TEST-SY-01", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SY-01", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SY-01", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SY-01", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SY-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SY-01", "method": "pool_select"}]}
+{"blind_id": "B-7Q4PXOIFYGUWTMKH", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-04", "method": "direct"}, {"context": "none", "item_id": "TEST-SY-04", "method": "direct"}]}
+{"blind_id": "B-7SEHJNNSKQYFERSR", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-04", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-NB-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-NB-04", "method": "pool_select"}]}
+{"blind_id": "B-AESW4RRH2XBLAARY", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-05", "method": "direct"}]}
+{"blind_id": "B-B2BSEMR5L7UPL6XI", "conditions": [{"context": "none", "item_id": "TEST-LG-05", "method": "direct"}]}
+{"blind_id": "B-B5ZHB6E6WPJ74IK7", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SP-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SP-05", "method": "pool_select"}]}
+{"blind_id": "B-BHA3LXMITKPCZ4DN", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-03", "method": "pool_aggregate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-NB-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-NB-03", "method": "pool_select"}]}
+{"blind_id": "B-BHEIS5HKT4LKLWMW", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-TM-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-TM-01", "method": "pool_select"}]}
+{"blind_id": "B-BKC7PR7VKAYOIZWH", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-03", "method": "fragments"}]}
+{"blind_id": "B-BLNYOQITBZ5GQ5R3", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-04", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-LG-04", "method": "direct"}]}
+{"blind_id": "B-BLZR5MXYXZBWF3AZ", "conditions": [{"context": "retrieved", "item_id": "TEST-LG-03", "method": "direct"}]}
+{"blind_id": "B-BNEQWNUWXIULTAW7", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-01", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-TM-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-BWSTSS7QZGYNPQQK", "conditions": [{"context": "retrieved", "item_id": "TEST-SP-05", "method": "direct"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SP-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-CEROAESOMXY5YHSN", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-EX-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-CQWQJGOWN4U67JXC", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-02", "method": "pool_aggregate"}]}
+{"blind_id": "B-CVR6IVEGT3KKEKGU", "conditions": [{"context": "none", "item_id": "TEST-NB-04", "method": "direct"}]}
+{"blind_id": "B-CYJ2H5KR5JPXKGVS", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-TM-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-DDRWOPFOL2OEAZ32", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-03", "method": "fragments"}]}
+{"blind_id": "B-DQ7AKEDZADP5FZ7U", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-LG-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-DYFC5KI2BEHQ43U4", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-02", "method": "fragments"}]}
+{"blind_id": "B-EJ4LHYKIFZLD7GNJ", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-03", "method": "direct"}, {"context": "none", "item_id": "TEST-SP-03", "method": "direct"}]}
+{"blind_id": "B-ELC2TFGHC2DB7XWS", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-EX-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-EX-04", "method": "pool_select"}]}
+{"blind_id": "B-ELNYIWMTOJ5HWP7I", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-02", "method": "fragments"}]}
+{"blind_id": "B-EPJ6Y32YBM2DTASR", "conditions": [{"context": "retrieved", "item_id": "TEST-LG-05", "method": "direct"}]}
+{"blind_id": "B-EUFCEGMUX3MWIGBB", "conditions": [{"context": "none", "item_id": "TEST-LG-04", "method": "direct"}]}
+{"blind_id": "B-EX7COWCWXZ265GL6", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-03", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SP-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-EXLFB2P2U4ER4SB4", "conditions": [{"context": "retrieved", "item_id": "TEST-TM-02", "method": "direct"}]}
+{"blind_id": "B-F4LSN45UJ7RYCYEA", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-04", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SP-04", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SP-04", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SP-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SP-04", "method": "pool_select"}]}
+{"blind_id": "B-FEXYCA7ENK5WA4UI", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-04", "method": "direct"}]}
+{"blind_id": "B-FI5YVL7T4S5IGAFB", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-TM-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-FW73B6VDQYAPLZVM", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-03", "method": "fragments"}]}
+{"blind_id": "B-FY43GBQBZE7C7L6I", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-01", "method": "fragments"}]}
+{"blind_id": "B-GC7GR2Z2U5U6V23Y", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-05", "method": "direct"}]}
+{"blind_id": "B-GFY76HD7QFHKKJIZ", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-05", "method": "fragments"}]}
+{"blind_id": "B-GJ4QKSJLUUMFI2MT", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-02", "method": "direct"}, {"context": "none", "item_id": "TEST-NB-02", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-NB-02", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-NB-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-NB-02", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-NB-02", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-NB-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-NB-02", "method": "pool_select"}]}
+{"blind_id": "B-GLOC2GRMXPT6YDPB", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-TM-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-GMEDGYIK3XZUJPS5", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-01", "method": "direct"}]}
+{"blind_id": "B-GOQZIMA75U73FRUD", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-05", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-NB-05", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-NB-05", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-NB-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-GUIIO356A464CX3T", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-03", "method": "direct"}]}
+{"blind_id": "B-GX4PATTJGPUDA2AD", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-01", "method": "direct"}, {"context": "none", "item_id": "TEST-TM-01", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-TM-01", "method": "direct"}]}
+{"blind_id": "B-GYG7SWOS4V2BR73R", "conditions": [{"context": "none", "item_id": "TEST-NB-05", "method": "direct"}]}
+{"blind_id": "B-H25OLC5WCTKECBLV", "conditions": [{"context": "retrieved", "item_id": "TEST-EX-01", "method": "direct"}]}
+{"blind_id": "B-HFMR6HGOC4AY6QXC", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-04", "method": "fragments"}]}
+{"blind_id": "B-HIKH2SVUJUBKMICV", "conditions": [{"context": "none", "item_id": "TEST-TM-04", "method": "direct"}]}
+{"blind_id": "B-I24IYIQPO3Q6FN6D", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-02", "method": "fragments"}]}
+{"blind_id": "B-I4KLTSIXINAN2YA6", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-01", "method": "fragments"}]}
+{"blind_id": "B-I7JFARJMGQHSUJ6A", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-LG-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-IEY7LDVSH3BA6IFJ", "conditions": [{"context": "none", "item_id": "TEST-TM-03", "method": "direct"}]}
+{"blind_id": "B-IJK3LNZBDEEJ42N7", "conditions": [{"context": "retrieved", "item_id": "TEST-SP-03", "method": "direct"}]}
+{"blind_id": "B-IKVVGPDKM4NXEBU5", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-04", "method": "fragments"}]}
+{"blind_id": "B-IPBWCAIYNZYBQZNZ", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-04", "method": "pool_aggregate"}]}
+{"blind_id": "B-IPRT2MDGD6OHLZWY", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-03", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-NB-03", "method": "direct"}]}
+{"blind_id": "B-IQR25JKPHXZV2ZPG", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-02", "method": "fragments"}]}
+{"blind_id": "B-J7LLM6HXWBDTSUTH", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-NB-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-JRCKXAXXZ35ZN45J", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-NB-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-JSVUVFR6T5LZUAFB", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SY-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-K3Z6L4KEAS3QUR45", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-03", "method": "fragments"}]}
+{"blind_id": "B-KCD242MBY7MKOURD", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-03", "method": "fragments"}]}
+{"blind_id": "B-KHHANWHRBIPAWVBV", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-LG-04", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-LG-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-KIO3JHDOJQXDXF7M", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SY-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-KY33J4FV23TPGA6C", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-04", "method": "pool_aggregate"}]}
+{"blind_id": "B-L3UDRFY7U73GGI4C", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-LG-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-LBRXTOSTUSITK4VW", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-TM-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-TM-02", "method": "pool_select"}]}
+{"blind_id": "B-LBZWG7MYIVA6ZX2F", "conditions": [{"context": "retrieved", "item_id": "TEST-SP-04", "method": "direct"}]}
+{"blind_id": "B-LHI2UEXVTKYWYYVZ", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-02", "method": "fragments"}]}
+{"blind_id": "B-LKCFH47FW5WSPVOT", "conditions": [{"context": "none", "item_id": "TEST-LG-03", "method": "direct"}]}
+{"blind_id": "B-LKDA52P3YNPDPV3Y", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-04", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-LG-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-LG-04", "method": "pool_select"}]}
+{"blind_id": "B-LPLUTEQXZDAV7T6T", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SP-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-LZDEEQIWTKV5AICM", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-04", "method": "fragments"}]}
+{"blind_id": "B-M2P7X6QKU4GIZQKD", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-02", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SP-02", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SP-02", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SP-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SP-02", "method": "pool_select"}]}
+{"blind_id": "B-MAPBYSP3DZRZU2DD", "conditions": [{"context": "none", "item_id": "TEST-EX-01", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-EX-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-MF45SGTAXNCC42KA", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-EX-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-MKPMWJUOUAKXW54T", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-01", "method": "fragments"}]}
+{"blind_id": "B-MVRTSLKPLKTPRFMY", "conditions": [{"context": "none", "item_id": "TEST-SP-04", "method": "direct"}]}
+{"blind_id": "B-MWCAJ5FLRN7D6D7O", "conditions": [{"context": "fixed_correct", "item_id": "TEST-NB-04", "method": "direct"}]}
+{"blind_id": "B-MYZOCNASR54JAVRR", "conditions": [{"context": "retrieved", "item_id": "TEST-EX-03", "method": "direct"}]}
+{"blind_id": "B-NZO4VBDZESNCSCUF", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-05", "method": "fragments"}]}
+{"blind_id": "B-O2KCPN6YKEFCP6JY", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-03", "method": "fragments"}]}
+{"blind_id": "B-O4N4DWZWJBRGAU7Z", "conditions": [{"context": "retrieved", "item_id": "TEST-TM-05", "method": "direct"}]}
+{"blind_id": "B-OL5W7BKBMYBMAWET", "conditions": [{"context": "none", "item_id": "TEST-SY-02", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SY-02", "method": "direct"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SY-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-OQEBGQXBWKJX4WL2", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-01", "method": "fragments"}]}
+{"blind_id": "B-OS47WH7I2V4EYMS6", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-05", "method": "fragments"}]}
+{"blind_id": "B-P3T345GOPCLMJLD4", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SY-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-PD67UVOTWUMLXLYW", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-LG-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-PHVT3XLNFNQYVJ4N", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-05", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SP-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-PM5IFCRVLZOAHKJM", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-LG-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-PQDYB6EQOJD6U6M3", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SP-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-Q634UQVNTYOY2V6A", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SP-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-QDU5QE2FJVLY5EON", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-05", "method": "pool_aggregate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-EX-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-EX-05", "method": "pool_select"}]}
+{"blind_id": "B-QKUOWQDA7K42NIGS", "conditions": [{"context": "none", "item_id": "TEST-NB-03", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-NB-03", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-NB-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-QNPEKI42DQ72SWXI", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-01", "method": "fragments"}]}
+{"blind_id": "B-R65MOIOVCO4HIRWG", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-03", "method": "direct"}, {"context": "none", "item_id": "TEST-EX-03", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-EX-03", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-EX-03", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-EX-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-EX-03", "method": "pool_select"}]}
+{"blind_id": "B-RGD4PR47YVYS3AO7", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-03", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-TM-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-TM-03", "method": "pool_select"}]}
+{"blind_id": "B-RQMNQSCYDLPC4TO3", "conditions": [{"context": "none", "item_id": "TEST-LG-02", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-LG-02", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-LG-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-RZXZN6CK7LC3F6X3", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-05", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-TM-05", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-TM-05", "method": "pool_select"}]}
+{"blind_id": "B-S7S3ZBM2IY4QLHJE", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-01", "method": "pool_aggregate"}]}
+{"blind_id": "B-SB3Q3LEOS7VMC6I5", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-NB-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-SCMDFPCDYPGS3LHC", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-01", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-EX-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-EX-01", "method": "pool_select"}]}
+{"blind_id": "B-SDHEJBPZ4OUIAVAX", "conditions": [{"context": "none", "item_id": "TEST-SP-02", "method": "direct"}]}
+{"blind_id": "B-STDSQ7DRFSXKMTOI", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-TM-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-SUWTCD4LBNEY2DRC", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-02", "method": "direct"}]}
+{"blind_id": "B-TF5H34HY5GEZTYW5", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-04", "method": "fragments"}]}
+{"blind_id": "B-TRCBATTKMIV47HS6", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-05", "method": "fragments"}]}
+{"blind_id": "B-TUVVOTXJ6WBTDLIB", "conditions": [{"context": "retrieved", "item_id": "TEST-SY-04", "method": "direct"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SY-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SY-04", "method": "pool_select"}]}
+{"blind_id": "B-UOCOXDBYR4ALJD5T", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SP-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SP-03", "method": "pool_select"}]}
+{"blind_id": "B-UQJLMHJ4NGUDFBPU", "conditions": [{"context": "none", "item_id": "TEST-TM-05", "method": "direct"}]}
+{"blind_id": "B-V7YFRIKP6OUGKY2C", "conditions": [{"context": "none", "item_id": "TEST-SP-05", "method": "direct"}]}
+{"blind_id": "B-VNQIC6XELHQC2ZM2", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-04", "method": "fragments"}]}
+{"blind_id": "B-VTDTFIZGK4XZOD52", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-EX-05", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-W47AHGK2XPJYT22Z", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-03", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-TM-03", "method": "direct"}]}
+{"blind_id": "B-WE3GTBJSRLBGHBR7", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-02", "method": "direct"}]}
+{"blind_id": "B-WG5XSOJAGJ7YKYJB", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-NB-01", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-NB-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-WOSIUTQ7ICGEEN7V", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-LG-03", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-XACQ4VSSCV66DNI7", "conditions": [{"context": "none", "item_id": "TEST-TM-02", "method": "direct"}]}
+{"blind_id": "B-XRAMDDUDNL5UABSC", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-05", "method": "direct"}]}
+{"blind_id": "B-XRTYR2WF5NJY4C2R", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SY-04", "method": "fragments"}]}
+{"blind_id": "B-XSES2I7X3BDUVQJH", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-04", "method": "direct"}]}
+{"blind_id": "B-XZMEY2TNA7MNJJXH", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-05", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-EX-05", "method": "direct"}]}
+{"blind_id": "B-Y7X6KMS5CPTFV6UD", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-LG-03", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-LG-03", "method": "pool_select"}]}
+{"blind_id": "B-YBXO47CWRGZX3UB7", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-TM-02", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-YICABQJGJUQ3YYJQ", "conditions": [{"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-SP-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-YIXINBLE5CAEYI3P", "conditions": [{"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-SP-01", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-YK7CXJX4S4HVVZLX", "conditions": [{"context": "none", "item_id": "TEST-SY-05", "method": "direct"}]}
+{"blind_id": "B-YU6XPS36XUEJ35QA", "conditions": [{"context": "fixed_correct", "item_id": "TEST-SP-01", "method": "direct"}, {"context": "none", "item_id": "TEST-SP-01", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-SP-01", "method": "direct"}, {"context": "fixed_correct", "item_id": "TEST-SP-01", "method": "pool_aggregate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-SP-01", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-SP-01", "method": "pool_select"}]}
+{"blind_id": "B-Z3NRG552WGWU6GNU", "conditions": [{"context": "retrieved", "item_id": "TEST-TM-04", "method": "direct"}]}
+{"blind_id": "B-ZEBUHLGJ2WNUJS2G", "conditions": [{"context": "fixed_correct", "item_id": "TEST-EX-02", "method": "direct"}, {"context": "none", "item_id": "TEST-EX-02", "method": "direct"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-EX-02", "method": "shared_pool_candidate"}, {"candidate_index": 2, "context": "fixed_correct", "item_id": "TEST-EX-02", "method": "shared_pool_candidate"}, {"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-EX-02", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-EX-02", "method": "pool_select"}]}
+{"blind_id": "B-ZOV75QRBBALNP2MR", "conditions": [{"candidate_index": 3, "context": "fixed_correct", "item_id": "TEST-EX-04", "method": "shared_pool_candidate"}]}
+{"blind_id": "B-ZRHMNH74P437XWRS", "conditions": [{"context": "fixed_correct", "item_id": "TEST-LG-01", "method": "direct"}, {"context": "retrieved", "item_id": "TEST-LG-01", "method": "direct"}]}
+{"blind_id": "B-ZTJ7DLSOEYCXE24X", "conditions": [{"context": "fixed_correct", "item_id": "TEST-TM-04", "method": "pool_aggregate"}, {"candidate_index": 1, "context": "fixed_correct", "item_id": "TEST-TM-04", "method": "shared_pool_candidate"}, {"context": "fixed_correct", "item_id": "TEST-TM-04", "method": "pool_select"}]}

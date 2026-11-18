@@ -1,0 +1,74 @@
+[
+  {
+    "id": "iso_02",
+    "source_en": "Appropriate and timely involvement of stakeholders enables their knowledge, views and perceptions to be considered.",
+    "source_title": "Risk management — Guidelines",
+    "locator": "4 Principles, d) Inclusive",
+    "url": "https://preview.sist.si/sist-preview/65694/0c31a934cd01431c94c33185a97adeac/SIST-ISO-31000-2018.pdf",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "利益相关方的适当、及时参与使其知识、观点和感知得到考虑。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  },
+  {
+    "id": "iso_03",
+    "source_en": "implement and maintain a process to identify, have access to and assess the applicable legal, regulatory and other requirements related to its security;",
+    "source_title": "Security and resilience — Security management systems — Requirements",
+    "locator": "4.2.2 Legal, regulatory and other requirements, item a)",
+    "url": "https://preview.sist.si/sist-preview/79612/fc6152007e5648b2b175c1e9c2b4a553/ISO-28000-2022.pdf",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "实施并持续维护一套过程，用以识别、获取并评价与其安全相关的适用法律、监管及其他要求。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  },
+  {
+    "id": "iso_04",
+    "source_en": "This International Standard does not state specific environmental performance criteria.",
+    "source_title": "Environmental management systems — Requirements with guidance for use",
+    "locator": "1 Scope",
+    "url": "https://preview.sist.si/sist-preview/60857/f9ac826b7ada4f5292dcea7f86e9316b/ISO-14001-2015.pdf",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "本国际标准未规定具体的环境绩效准则。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  },
+  {
+    "id": "iso_07",
+    "source_en": "action or activity that is essential to prevent a significant food safety hazard (3.22) or reduce it to an acceptable level (3.1)",
+    "source_title": "Food safety management systems — Requirements for any organization in the food chain",
+    "locator": "3.8 Control measure",
+    "url": "https://preview.sist.si/sist-preview/65464/7288e49c71f7418d9d3cc2377d1fe02a/ISO-22000-2018.pdf",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "对预防重大食品安全危害（3.22）或将其降低到可接受水平（3.1）至关重要的行动或活动。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  },
+  {
+    "id": "iso_09",
+    "source_en": "The organization shall determine the boundaries and applicability of the anti-bribery management system to establish its scope.",
+    "source_title": "Anti-bribery management systems — Requirements with guidance for use",
+    "locator": "4.3 Determining the scope of the anti-bribery management system",
+    "url": "https://preview.sist.si/sist-preview/65034/afdeed8e1d6748d6b91b80507b93fed6/ISO-37001-2016.pdf",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "组织应确定反贿赂管理体系的边界与适用性，以确立其范围。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  },
+  {
+    "id": "iso_10",
+    "source_en": "The extent of application of these requirements depends on the organization’s operating environment and complexity.",
+    "source_title": "Security and resilience — Business continuity management systems — Requirements",
+    "locator": "1 Scope",
+    "url": "https://gso-sims-preview-doc-aws.s3-eu-west-1.amazonaws.com/iso-22301-2019-en.html",
+    "archive_date": "2026-11-04",
+    "anchor_zh": "这些要求的应用程度取决于组织的运行环境及复杂程度。",
+    "family": "ISO excerpt",
+    "split": "external",
+    "target_card_ids": []
+  }
+]
